@@ -1,7 +1,11 @@
 # time-tracker
-
+```
+Node version: 16.14.2
+yarn install
+```
 ## Project setup
 ```
+Node version: 16.14.2
 yarn install
 ```
 
